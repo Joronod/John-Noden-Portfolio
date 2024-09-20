@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Whimsy Date
 colors: colors-a
-date: '0020-07-20'
+date: '2024-07-20'
 client: Northcoders
 description: >-
   This was the final project I worked on at Northcoders, and as a team, we got
