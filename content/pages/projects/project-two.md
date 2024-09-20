@@ -10,7 +10,7 @@ description: >-
   most of the time.
 featuredImage:
   type: ImageBlock
-  url: /images/WhimsyDate.gif
+  url: /images/WhimsyDateImg.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
