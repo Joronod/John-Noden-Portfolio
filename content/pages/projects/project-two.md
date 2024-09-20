@@ -5,9 +5,8 @@ colors: colors-a
 date: '2021-12-20'
 client: Northcoders
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  This was the final project I worked on at Northcoders, and as a team, we got
+  to create a really special app!
 featuredImage:
   type: ImageBlock
   url: /images/WhimsyDateImg.png
