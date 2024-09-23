@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: NC News
 colors: colors-a
-date: '2022-01-01'
+date: '2022-07-01'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
