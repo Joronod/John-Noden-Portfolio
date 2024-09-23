@@ -5,8 +5,10 @@ colors: colors-a
 date: '2024-07-01'
 client: Northcoders
 description: >-
-  This full stack application works off an API of example news articles. I was
-  able 
+  NC News is a web application built using React.js that allows users to browse
+  articles, read and comment on them, and interact with the community through
+  voting on articles and comments. It leverages the NC News API to fetch and
+  display data dynamically.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
