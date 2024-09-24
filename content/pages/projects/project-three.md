@@ -13,10 +13,7 @@ featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2024-09-24 121631.png
   altText: Project Home Page
-  caption: >-
-    The homepage of the article is designed to provide three random articles in
-    the Featured Articles section. It also generates the Topics of the articles,
-    so users can select one to view all article that have this topic
+  caption: NC News is a Full Stack application built using React.JS.
 media:
   type: ImageBlock
   url: /images/Screenshot 2024-09-24 121631.png
