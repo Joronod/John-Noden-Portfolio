@@ -34,7 +34,7 @@ bottomSections:
         altText: 'A look at an individual article, as well as the comments section'
         caption: An individual article and its comments
         elementId: ''
-    colors: colors-c
+    colors: colors-a
     spacing: 16
     columns: 2
     aspectRatio: '1:1'
