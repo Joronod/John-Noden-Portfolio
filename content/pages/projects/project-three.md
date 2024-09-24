@@ -31,7 +31,7 @@ bottomSections:
         elementId: ''
       - type: ImageBlock
         url: /images/Screenshot 2024-09-24 122856.png
-        altText: Image two
+        altText: 'A look at an individual article, as well as the comments section'
         caption: Image two caption
         elementId: ''
     colors: colors-c
