@@ -21,7 +21,7 @@ media:
   caption: ''
 bottomSections:
   - type: MediaGallerySection
-    title: Gallery
+    title: NC News Features
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
