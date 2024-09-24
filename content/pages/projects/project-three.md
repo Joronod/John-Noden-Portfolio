@@ -11,7 +11,7 @@ description: >-
   display data dynamically.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Screenshot 2024-09-24 121631.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
