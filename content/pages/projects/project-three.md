@@ -60,3 +60,6 @@ In the Header, as well as a link to the Homepage, users can access the Log In se
 
 The homepage of the article is designed to provide three random articles in the Featured Articles section. It also generates the Topics of the articles, so users can select one to view all article that have this topic.
 
+Users can navigate to individual articles, and if they have signed in, leave a comment.
+
+For more information on this project, and the chance to use it yourself, [click here!](https://github.com/Joronod/nc-news)
