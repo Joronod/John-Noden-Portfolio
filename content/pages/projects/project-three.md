@@ -30,7 +30,7 @@ bottomSections:
         caption: View all articles
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: /images/Screenshot 2024-09-24 122856.png
         altText: Image two
         caption: Image two caption
         elementId: ''
