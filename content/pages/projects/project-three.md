@@ -12,7 +12,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2024-09-24 121631.png
-  altText: Project thumbnail image
+  altText: Project Home Page
 media:
   type: ImageBlock
   url: /images/bg3.jpg
