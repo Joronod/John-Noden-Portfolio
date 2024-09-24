@@ -18,6 +18,10 @@ media:
   type: ImageBlock
   url: /images/Screenshot 2024-09-24 121631.png
   altText: Project image
+  caption: >-
+    The homepage of the article is designed to provide three random articles in
+    the Featured Articles section. It also generates the Topics of the articles,
+    so users can select one to view all article that have this topic
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
