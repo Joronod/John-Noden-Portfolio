@@ -26,7 +26,7 @@ bottomSections:
     images:
       - type: ImageBlock
         url: /images/Screenshot 2024-09-24 122821.png
-        altText: Image one
+        altText: A look at "view all articles"
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
