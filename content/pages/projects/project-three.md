@@ -32,7 +32,7 @@ bottomSections:
       - type: ImageBlock
         url: /images/Screenshot 2024-09-24 122856.png
         altText: 'A look at an individual article, as well as the comments section'
-        caption: Image two caption
+        caption: An individual article and its comments
         elementId: ''
     colors: colors-c
     spacing: 16
