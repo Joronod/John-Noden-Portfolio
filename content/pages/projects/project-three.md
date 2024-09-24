@@ -22,7 +22,7 @@ media:
 bottomSections:
   - type: MediaGallerySection
     title: NC News Features
-    subtitle: This is the subtitle
+    subtitle: A quick look at what's inside
     images:
       - type: ImageBlock
         url: /images/Screenshot 2024-09-24 122821.png
